@@ -55,8 +55,11 @@ I love **exploring new technologies** so I can create **accessible, customizable
 
 ## 📊 GitHub Stats  
 
-![Ajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeetk1&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetk1&layout=compact&theme=radical)  
+## 📊 GitHub Stats  
+
+![Ajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajeetk1&show_icons=true&theme=radical&cache_seconds=1800)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeetk1&layout=compact&theme=radical&cache_seconds=1800)  
+ 
 
 ---
 
