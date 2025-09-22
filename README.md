@@ -60,4 +60,4 @@ I love **exploring new technologies** so I can create **accessible, customizable
 
 ---
 
-⭐ If you find value in something I’ve created, please feel free to give me a **shout on [@AjeetKhamesra1](https://twitter.com/AjeetKhamesra1)** or star my repos!  
+⭐ If you find value in something I’ve created, please feel free to give me shout on [@AjeetKhamesra1](https://twitter.com/AjeetKhamesra1)** or star my repos!  
